@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "88dd040e0745cb8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "564a62fae6662e29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61142c741b944ef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyBatis_plus模板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9eb110a4b027eb5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9973b00b4937592e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4fbbafc54b9a3c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb20b4560377e996",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f21bbb17f279ba5c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2bf19e48870b586e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a4b84f42bf6a2cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90282474d10b6425",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MyBatis_plus模板.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94a11e4b11a0cc0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MyBatis_plus模板.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2103cd0fe1ee9ab8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7ab7eef681cc48d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MyBatis_plus模板.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bb20b4560377e996",
+  "lastOpenFiles": [
+    "数据挖掘/第四次作业（相似度）/第四次实验.md",
+    "算法作业实验报告/作业1/作业1.md",
+    "python/第二次实验/第二次实验.md",
+    "python/第二次实验/2022-09-27-21-16-36.png"
+  ]
+}
