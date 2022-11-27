@@ -1,0 +1,9 @@
+s1='yellow ribbon'
+s2='Pascal Case'
+s3='123'
+s4='iPhone7'
+
+print(s1.isalnum())    
+print(s2.isalpha() )       
+print(s3.isdecimal() )     
+print(s4.isdigit())         
