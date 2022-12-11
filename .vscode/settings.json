@@ -2,5 +2,6 @@
     "java.project.sourcePaths": [
         ""
     ],
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "files.autoGuessEncoding": true
 }
